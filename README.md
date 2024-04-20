@@ -1,6 +1,6 @@
 # Generating digits for captcha using Generative Adversarial Network
 
-In the project directory, you can run:
+In the project, you can run:
 
 `python update.py`
 
